@@ -1,4 +1,4 @@
-# explore-socketio with NextJS (Frontend) + Strapi CMS (Backend)
+# Realtime Memory Game NextJS (Frontend) + Strapi CMS (Backend)
 Exploring Socket IO using NextJS + Strapi CMS (Node JS)
 <h1> <strong>NOTE:</strong> THIS IS ONLY FOR EXPLORATION PURPOSES </h1>
 
